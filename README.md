@@ -3,9 +3,6 @@
 ![Skip Selector Desktop View](/desktop-ss.png)
 _Desktop view of the Skip Size Selector application_
 
-![Skip Selector Mobile View](/mobile-ss.png)
-_Mobile view showing the responsive design_
-
 ## Overview
 
 This project is a redesigned Skip Hire application built with React, TypeScript, and Tailwind CSS. The application allows users to browse, filter, and select skip sizes for waste disposal.
