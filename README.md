@@ -1,5 +1,7 @@
 # Skip Size Selector - React TypeScript Project
 
+# Link: https://skip-size-case.netlify.app/
+
 ![Skip Selector Desktop View](/desktop-ss.png)
 _Desktop view of the Skip Size Selector application_
 
